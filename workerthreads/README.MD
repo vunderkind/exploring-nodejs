@@ -14,3 +14,6 @@ This repository contains a small NodeJS server that has three endpoints:
 2. Run npm i to install dependencies (just express in this case);
 3. Run `npm run start` to spin up the server.
 4. Hit the three endpoints to see what happens. 
+
+## Acknowledgment
+Thanks to Akilesh Rao's [brilliant article](https://javascript.plainenglish.io/a-brief-guide-on-worker-threads-in-node-js-80bd1e7846cb) for explaining worker threads
