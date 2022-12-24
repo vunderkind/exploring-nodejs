@@ -1,0 +1,12 @@
+{
+  "name": "workerthreads",
+  "version": "1.0.0",
+  "description": "This is a tiny demonstration of the way worker threads work. When we have a CPU-blocking process (the sort of thing that cannot be delegated — via libuv — to the event queue), we block the whole Node thread, and this can cause the server/application to become unresponsive.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
