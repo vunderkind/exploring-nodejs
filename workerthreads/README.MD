@@ -16,4 +16,4 @@ This repository contains a small NodeJS server that has three endpoints:
 4. Hit the three endpoints to see what happens. 
 
 ## Acknowledgment
-Thanks to Akilesh Rao's [brilliant article](https://javascript.plainenglish.io/a-brief-guide-on-worker-threads-in-node-js-80bd1e7846cb) for explaining worker threads
+Thanks to Akilesh Rao's [brilliant article](https://javascript.plainenglish.io/a-brief-guide-on-worker-threads-in-node-js-80bd1e7846cb) for explaining worker threads!
