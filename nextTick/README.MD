@@ -45,7 +45,7 @@ To fix this, we can use `process.nextTick()`:
 
     let myEmitter = getEmitter();
 
-    myEmitter.on('start', () () => {
+    myEmitter.on('start', () => {
         console.log('started!');
     })
 ```
